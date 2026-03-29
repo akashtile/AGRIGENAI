@@ -7,6 +7,7 @@
    ║   🌾  A G R I G E N A I  —  Farming Copilot          ║
    ║   AI-powered agricultural advisory for India          ║
    ╚═══════════════════════════════════════════════════════╝
+
 ```
 
 **A farmer in rural Maharashtra with no internet, no English, and a sick crop**
