@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <br/>
 
@@ -84,21 +84,30 @@ AgriGenAI addresses all four — with one unified system.
 
 ### Run in 5 steps
 
-```bash
+
 # 1. Navigate to project
+```bash
 cd "ET HACK/agrigenaai"
+```
 
 # 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 # 3. Configure your API key
+```bash
 cp .env.example .env
 # → Open .env and paste your GROQ_API_KEY
+```
 
 # 4. Start the backend  (Terminal 1)
+```bash
 uvicorn app.main:app --reload --port 8000
+```
 
 # 5. Start the frontend  (Terminal 2)
+```bash
 streamlit run frontend/app.py
 ```
 
@@ -434,7 +443,7 @@ Export the full log as JSON at any time from the Audit Log tab.
 
 <br/>
 
-** Agricultural Advisory Agents Track**
+**Agricultural Advisory Agents Track**
 
 *Groq LLaMA 3.3 70B · LLaMA 4 Scout Vision · Whisper STT · Open-Meteo · ICAR Offline KB*
 
