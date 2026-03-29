@@ -434,7 +434,7 @@ Export the full log as JSON at any time from the Audit Log tab.
 
 <br/>
 
-**ET HACK 2026 · Agricultural Advisory Agents Track**
+** Agricultural Advisory Agents Track**
 
 *Groq LLaMA 3.3 70B · LLaMA 4 Scout Vision · Whisper STT · Open-Meteo · ICAR Offline KB*
 
