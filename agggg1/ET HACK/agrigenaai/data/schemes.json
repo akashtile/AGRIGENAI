@@ -1,0 +1,90 @@
+[
+  {
+    "name": "PM-KISAN",
+    "full_name": "Pradhan Mantri Kisan Samman Nidhi",
+    "description": "Direct income support of Rs 6000 per year to small and marginal farmers in three installments",
+    "benefit": "Rs 6000/year direct bank transfer",
+    "eligible_categories": ["small", "marginal"],
+    "states": ["all"],
+    "crops": ["all"],
+    "how_to_apply": "Apply at local CSC center or pmkisan.gov.in with Aadhaar and land records",
+    "ministry": "Ministry of Agriculture"
+  },
+  {
+    "name": "PMFBY",
+    "full_name": "Pradhan Mantri Fasal Bima Yojana",
+    "description": "Crop insurance scheme providing financial support to farmers suffering crop loss due to natural calamities, pests and diseases",
+    "benefit": "Insurance coverage for crop loss, premium as low as 1.5% for Rabi crops",
+    "eligible_categories": ["small", "marginal", "large"],
+    "states": ["all"],
+    "crops": ["wheat", "rice", "cotton", "maize", "soybean", "groundnut"],
+    "how_to_apply": "Apply through bank or insurance company before sowing season",
+    "ministry": "Ministry of Agriculture"
+  },
+  {
+    "name": "KCC",
+    "full_name": "Kisan Credit Card",
+    "description": "Provides farmers with affordable credit for agricultural needs including seeds, fertilizers, and equipment",
+    "benefit": "Credit up to Rs 3 lakh at 4% interest rate",
+    "eligible_categories": ["small", "marginal", "large"],
+    "states": ["all"],
+    "crops": ["all"],
+    "how_to_apply": "Apply at nearest bank branch with land ownership documents",
+    "ministry": "Ministry of Finance"
+  },
+  {
+    "name": "PKVY",
+    "full_name": "Paramparagat Krishi Vikas Yojana",
+    "description": "Promotes organic farming through cluster approach and provides financial assistance for organic certification",
+    "benefit": "Rs 50,000 per hectare over 3 years for organic farming",
+    "eligible_categories": ["small", "marginal"],
+    "states": ["all"],
+    "crops": ["all"],
+    "how_to_apply": "Contact local agriculture department or Krishi Vigyan Kendra",
+    "ministry": "Ministry of Agriculture"
+  },
+  {
+    "name": "SMAM",
+    "full_name": "Sub-Mission on Agricultural Mechanization",
+    "description": "Provides subsidy on purchase of agricultural machinery and equipment to reduce cost of cultivation",
+    "benefit": "40-50% subsidy on farm machinery for small farmers",
+    "eligible_categories": ["small", "marginal"],
+    "states": ["all"],
+    "crops": ["all"],
+    "how_to_apply": "Apply at agrimachinery.nic.in or district agriculture office",
+    "ministry": "Ministry of Agriculture"
+  },
+  {
+    "name": "RKVY",
+    "full_name": "Rashtriya Krishi Vikas Yojana",
+    "description": "Provides flexibility to states to plan and execute agriculture development programs based on local needs",
+    "benefit": "Grants for infrastructure, technology, and market development",
+    "eligible_categories": ["small", "marginal", "large"],
+    "states": ["all"],
+    "crops": ["all"],
+    "how_to_apply": "Contact state agriculture department for state-specific programs",
+    "ministry": "Ministry of Agriculture"
+  },
+  {
+    "name": "eNAM",
+    "full_name": "National Agriculture Market",
+    "description": "Online trading platform for agricultural commodities to help farmers get better prices",
+    "benefit": "Access to pan-India market, transparent price discovery",
+    "eligible_categories": ["small", "marginal", "large"],
+    "states": ["all"],
+    "crops": ["wheat", "rice", "tomato", "onion", "potato", "cotton", "maize"],
+    "how_to_apply": "Register at enam.gov.in or nearest APMC mandi",
+    "ministry": "Ministry of Agriculture"
+  },
+  {
+    "name": "MIDH",
+    "full_name": "Mission for Integrated Development of Horticulture",
+    "description": "Supports holistic growth of horticulture sector including fruits, vegetables, and spices",
+    "benefit": "Subsidy on planting material, protected cultivation, and post-harvest infrastructure",
+    "eligible_categories": ["small", "marginal", "large"],
+    "states": ["all"],
+    "crops": ["tomato", "onion", "potato", "fruits", "vegetables", "spices"],
+    "how_to_apply": "Apply through state horticulture department",
+    "ministry": "Ministry of Agriculture"
+  }
+]
